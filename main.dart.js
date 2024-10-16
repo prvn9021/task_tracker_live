@@ -83002,7 +83002,7 @@ r=A.lE(A.axa(new A.dS(q)).ga2G().H5(null))
 s=$.aj()
 return new A.Om(r,new A.eI(B.bN,s),new A.eI(B.bN,s),new A.eI(B.bN,s),new A.eI(B.bN,s),new A.bj(null,t.am))}}
 A.Om.prototype={
-J(a){var s,r=this,q=null,p=A.mR(B.an,q,q,q),o=A.aKe(q,q,new A.vT("assets/icon/icon.png",q,q)),n=r.d,m=A.bB(n?"Welcome to Task Tracker":"Sign Up",q,q,q,B.Rc,q,q)
+J(a){var s,r=this,q=null,p=A.mR(B.an,q,q,q),o=A.aKe(q,q,new A.vT("assets/icon/icon.png",q,q)),n=r.d,m=A.bB(n?"Welcome to\nTask Tracker!":"Sign Up",q,q,q,B.Rc,q,q)
 n=n?"Enter your credentials":"Create your account"
 n=A.bB(n,q,q,q,A.fX(q,q,B.fe,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)
 s=r.d?r.a8H(a):r.acD(a)
